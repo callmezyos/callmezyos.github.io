@@ -11,4 +11,8 @@ I ended up in this class because when I first took AIM my objective was to be ab
 passed on and my skills went down. So when I took this class, I guess I was hoping that it would help me remember and give me more\
 insight into what goes into a webpage, and web design in general.
 
+### Current Inspirations
+*My friends from back home
+*Pros in Major League Gaming
+*Tim Howard
 
