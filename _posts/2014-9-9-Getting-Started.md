@@ -12,7 +12,7 @@ passed on and my skills went down. So when I took this class, I guess I was hopi
 insight into what goes into a webpage, and web design in general.
 
 ### Current Inspirations
-*My friends from back home
-*Pros in Major League Gaming
-*Tim Howard
+* My friends from back home
+* Pros in Major League Gaming
+* Tim Howard
 
