@@ -16,3 +16,5 @@ insight into what goes into a webpage, and web design in general.
 * Pros in Major League Gaming. For a while, I dreamed of being in the MLG, so when I decided to start studying game design, I began to try and figure out way to help the MLG in the future. [webpage](http://www.majorleaguegaming.com/)
 * Todd Howard. He created the Elder Scrolls series which is my favorite game series. Essentially, I would like to try and be like him. [picture](http://img2.wikia.nocookie.net/__cb20110506202339/elderscrolls/images/0/05/Todd.jpg)
 
+ 
+  <em> Written: September 10, 2014  </em>
