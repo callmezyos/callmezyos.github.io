@@ -43,10 +43,10 @@ sort of devices that may be used in viewing the webpage.
 
 ### Responsive Images Using PictureFill
 
-```
+{% highlight css %}
  <script type="text/javascript">
   document.createElement('picture');
   </script>
 
   <script scr="picturefill.js" async></script>
-```
+{% endhighlight %}
