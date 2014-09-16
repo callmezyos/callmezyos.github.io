@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 9-16-2014 Blog Post
+title: Responsive Images
 ---
 
 ## Why Responsive Pages are both Useful and Difficult to Use
@@ -15,7 +15,7 @@ sort of devices that may be used in viewing the webpage.
 
 ### Responsive Images Using CSS
 
-```
+{% highlight css %}
 /* tablet */
   @media (min-width: 768px) {
     .page-heading {
@@ -39,7 +39,7 @@ sort of devices that may be used in viewing the webpage.
       background-image: url('frisbee-tablet@2x.jpg');
     }
   }
-```
+{% endhighlight %}
 
 ### Responsive Images Using PictureFill
 
