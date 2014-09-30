@@ -9,13 +9,11 @@ With SMACCS generally from what I have noticed all of the code is very DRY. Ever
 be moved around the site without breaking. It also gives those elements the same general styling.
 
 {%highlight CSS%}
-
 .pod { width: 100%; } 
 .pod input[type=text] { width: 50%; } 
 .pod-constrained input[type=text] { width: 100%; } 
 .pod-callout { width: 200px; } 
 .pod-callout input[type=text] { width: 180px; }
-
 {%end highlight %}
 
 Overall the only drawbacks or limitations that I really see with SMACCS is that the naming conventions for elements seem 
