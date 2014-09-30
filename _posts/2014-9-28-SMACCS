@@ -1,0 +1,24 @@
+---
+layout: post
+title: SMACCS
+---
+
+##SMACCS
+Overall I would have to say that I like how SMACCS works in theory, but it seems a bit hard to implement consistently.
+With SMACCS generally from what I have noticed all of the code is very DRY. Everything is specific and allows for elements to
+be moved around the site without breaking. It also gives those elements the same general styling.
+
+{%highlight CSS%}
+
+.pod { width: 100%; } 
+.pod input[type=text] { width: 50%; } 
+.pod-constrained input[type=text] { width: 100%; } 
+.pod-callout { width: 200px; } 
+.pod-callout input[type=text] { width: 180px; }
+
+{%end highlight %}
+
+Overall the only drawbacks or limitations that I really see with SMACCS is that the naming conventions for elements seem 
+to be almost too specific, which to me, would make working on a site with a lot of separate elements rather difficult.
+If done right and properly on the other hand, the code written in this style is very fluent, DRY, conventional, and
+organized.
