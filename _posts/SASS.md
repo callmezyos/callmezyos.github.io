@@ -23,3 +23,8 @@ and SASS organizes them almost perfectly. Since I am not the strongest programme
 implementing SASS would definately take some time, but in the end I know 
 it would be worth it. The end result would have my code working more efficently,
 and well organized.
+
+## Here is an example of SASS
+
+<p data-height="567" data-theme-id="0" data-slug-hash="pksHe" data-default-tab="result" data-user="alex-lueck" class='codepen'>See the Pen <a href='http://codepen.io/alex-lueck/pen/pksHe/'>pksHe</a> by Alex Lueck (<a href='http://codepen.io/alex-lueck'>@alex-lueck</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//codepen.io/assets/embed/ei.js"></script>
