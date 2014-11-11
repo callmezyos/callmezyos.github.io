@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Web Components
+title: Custom Elements
 ---
 
-###Web Componenets & The Future of Development###
+###Custom Elements & The Future of Development###
 
 Personally I think this is a good path for the future of Web Development 
 because as time goes on, developers are able to create things easier and more efficent.
