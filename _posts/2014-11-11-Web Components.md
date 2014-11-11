@@ -3,6 +3,8 @@ layout: post
 title: Web Components
 ---
 
+###Web Componenets & The Future of Development###
+
 Personally I think this is a good path for the future of Web Development 
 because as time goes on, developers are able to create things easier and more efficent.
 The use of Shadow DOM and Templates allows content and presentation to be separated and
