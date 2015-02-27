@@ -7,9 +7,9 @@ permalink: /about/
 I'm a tall guy from Wisconsin. Studying Game Design. With the asparitions to out to California and make it into the Game Industry.
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+Give my Facebook page a Like:                Follow me on Twitter:
+www.facebook.com/AZLCreations                   @Call_Me_Zyos
 
 ### Contact me
 
-[alex.lueck@loop.colum.edu](mailto:email@domain.com)
+[lueck_alex@yahoo.com](mailto:email@domain.com)
