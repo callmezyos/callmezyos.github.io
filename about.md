@@ -4,11 +4,14 @@ title: About
 permalink: /about/
 ---
 
-I'm a tall guy from Wisconsin. Studying Game Design. With the asparitions to out to California and make it into the Game Industry.
+I'm a tall guy from Wisconsin. Studying Game Design at Columbia College Chicago. With the asparitions to move out to California and make it into the Game Industry.
 
 ### More Information
-Give my Facebook page a Like:                Follow me on Twitter:
-www.facebook.com/AZLCreations                   @Call_Me_Zyos
+Give my Facebook page a Like:             
+www.facebook.com/AZLCreations
+
+Follow me on Twitter:
+@Call_Me_Zyos
 
 ### Contact me
 
