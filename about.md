@@ -13,6 +13,9 @@ www.facebook.com/AZLCreations
 Follow me on Twitter:
 @Call_Me_Zyos
 
+Check out my LinkedIn:
+www.linkedin.com/in/alexlueck
+
 ### Contact me
 
 [lueck_alex@yahoo.com](mailto:email@domain.com)
