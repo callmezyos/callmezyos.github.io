@@ -12,7 +12,7 @@ passed on and my skills went down. So when I took this class, I guess I was hopi
 insight into what goes into a webpage, and web design in general.
 
 ### Current Inspirations
-* My friends from back home, some of my friends have the most insane work ethic that I have seen. Also they have stuck by me through thick and thin. [picture](http://www.forextrendicator.com/pictures/refer_a_friend.png)
+* My friends from back home, some of my friends have the most insane work ethic that I have seen. Also they have stuck by me through thick and thin. (http://www.forextrendicator.com/pictures/refer_a_friend.png)
 * Pros in Major League Gaming. For a while, I dreamed of being in the MLG, so when I decided to start studying game design, I began to try and figure out way to help the MLG in the future. [webpage](http://www.majorleaguegaming.com/)
 * Todd Howard. He created the Elder Scrolls series which is my favorite game series. Essentially, I would like to try and be like him. [picture](http://img2.wikia.nocookie.net/__cb20110506202339/elderscrolls/images/0/05/Todd.jpg)
 
