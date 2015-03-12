@@ -13,6 +13,8 @@ insight into what goes into a webpage, and web design in general.
 
 ### Current Inspirations
 * My friends from back home, some of my friends have the most insane work ethic that I have seen. Also they have stuck by me through thick and thin. 
+
+
 <img src="http://www.forextrendicator.com/pictures/refer_a_friend.png" style="width:304px;height:228px">
 
 * Pros in Major League Gaming. For a while, I dreamed of being in the MLG, so when I decided to start studying game design, I began to try and figure out way to help the MLG in the future. [webpage](http://www.majorleaguegaming.com/)
