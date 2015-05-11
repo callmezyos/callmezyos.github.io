@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
+<img src="http://iam.colum.edu/students/alex.lueck/Glasses.jpg" alt="A lovely headshot of yours truely" style="width:150px;height:250px;position:right">
+
 I'm a tall guy from Wisconsin. Studying Game Design at Columbia College Chicago. With the asparitions to move out to California and make it into the Game Industry.
 
 ### More Information
-
-<img src="http://iam.colum.edu/students/alex.lueck/Glasses.jpg" alt="A lovely headshot of yours truely" style="width:150px;height:150px;position:right">
 
 Give my Facebook page a Like:
 
