@@ -20,7 +20,7 @@ html {
 
 body {
   
-  background-image: url('{{ site.baseurl }}/http://Callmezyos.github.io/images/background.jpg');
+  background-image: url(../http://Callmezyos.github.io/images/background.jpg);
   font: 18px/1.4 $helvetica;
   color: $white;
 }
