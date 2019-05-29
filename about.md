@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://github.com/callmezyos/Callmezyos.github.io/blob/master/images/AL1.jpg" alt="A lovely headshot of yours truely" style="width:175px;height:250px;position:right;">
+<img src="https://Callmezyos.github.io/images/AL1.jpg" alt="A lovely headshot of yours truely" style="width:175px;height:250px;position:center;">
 
 My name is Alex Lueck and I am a freelance Simulation, Software, and Game Developer.For the last year I have been a Contract Designer working on Madden 19 and Madden 20 at EA Sports. From 2015 to 2018 I was an Associate Game Designer working on Mutant Football League for Digital Dreams Entertainment. From 2015 to 2016 I was a Simulation and Software Designer for ARX.  
 
