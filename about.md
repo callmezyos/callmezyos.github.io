@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /aboutme/
+permalink: /about/
 ---
 
 <img src="http://Callmezyos.github.io/images/AL1.jpg" alt="A headshot of yours truely" style="width:250px;height:250px;align=middle;">
