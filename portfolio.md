@@ -11,4 +11,4 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 
 
 
-<img src="http://Callmezyos.github.io/images/AlexLueckWorkSamples.jpg" alt="Samples of some of my work" style="width:10500px;height:3300px">
+<img src="http://Callmezyos.github.io/images/AlexLueckWorkSamples.jpg" alt="Samples of some of my work" style="width:1000px;height:750px">
