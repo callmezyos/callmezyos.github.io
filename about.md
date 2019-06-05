@@ -12,4 +12,4 @@ I received a Bachelor of Fine Arts in the Game Design Major from Columbia Colleg
 
 
 
-<iframe id="twitter-widget-0" scrolling="no" allowtransparency="true" allowfullscreen="true" class="twitter-timeline twitter-timeline-rendered" style="position: static; visibility: visible; display: block; width: 500px; height: 400px; padding: 0px; border: medium none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px; min-height: 200px;margin-right: auto;margin-left: auto;" data-widget-id="profile:Call_Me_ZYOS" title="Twitter Timeline" frameborder="0"></iframe>
+<a class="twitter-timeline" data-width="500" data-height="500" data-theme="dark" data-link-color="#19CF86" href="https://twitter.com/Call_Me_ZYOS?ref_src=twsrc%5Etfw">Tweets by Call_Me_ZYOS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
