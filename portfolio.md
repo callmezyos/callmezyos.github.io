@@ -3,6 +3,7 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
+<link rel="icon" href="images/favicon02.ico" type="image/x-icon"/>
 
 ## Alex Lueck - Game Design Demo Reel
 
