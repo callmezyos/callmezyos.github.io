@@ -12,6 +12,6 @@ Currently I work as an Associate Game Designer working on Mutant Football League
 
 Working in this industry forged me the opportunity to develop a wide arsenal of skills. My passion for creating is what drives my desire to be a part of this industry. I'm a quick learner who's always looking to jump into something new and exciting.
 
-<iframe allowfullscreen="true" src="https://mixer.com/embed/player/Call_Me_ZYOS?disableLowLatency=1" width="620" height="349"> </iframe>
+<iframe allowfullscreen="true" src="https://mixer.com/embed/player/Call_Me_ZYOS?disableLowLatency=1" width="620" height="349" align="middle"> </iframe>
 
 <a class="twitter-timeline" data-width="500" data-height="500" data-theme="dark" data-link-color="#19CF86" href="https://twitter.com/Call_Me_ZYOS?ref_src=twsrc%5Etfw">Tweets by Call_Me_ZYOS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
