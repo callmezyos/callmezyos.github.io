@@ -14,4 +14,4 @@ Working in this industry forged me the opportunity to develop a wide arsenal of 
 
 <iframe allowfullscreen="true" src="https://mixer.com/embed/player/Call_Me_ZYOS?disableLowLatency=1" width="620" height="349"> </iframe>
 
-<a class="twitter-timeline" data-width="500" data-height="500" data-theme="dark" data-link-color="#19CF86" href="https://twitter.com/Call_Me_ZYOS?ref_src=twsrc%5Etfw">Tweets by Call_Me_ZYOS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-width="500" data-height="500" data-theme="dark" data-link-color="#19CF86" href="https://twitter.com/Call_Me_ZYOS?ref_src=twsrc%5Etfw">Tweets by Call_Me_ZYOS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" align="middle"></script> 
