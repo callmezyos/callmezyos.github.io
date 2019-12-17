@@ -3,7 +3,6 @@ layout: post
 title: If You Blink
 ---
 
-##If You Blink
 Yet again its been a decent amount of time since I have given an update. So as with much of life, their
 are plenty of highs and plenty of lows. I was hired by Jackbox Games to be a contract QA Tester to help
 them finish out development on The Jackbox Party Pack 6. 
