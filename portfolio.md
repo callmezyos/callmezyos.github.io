@@ -11,17 +11,17 @@ permalink: /portfolio/
 allow="accelerometer; autoplay; encrypted-media; gyroscope; vertical-align: middle; picture-in-picture" allowfullscreen></iframe>
 
 ## Experience
-Jackbox Games - Jackbox Party Pack 6 & 7 / Quiplash 2: InterLASHional
+<b><u>Jackbox Games</b></u> - Jackbox Party Pack 6 & 7 / Quiplash 2: InterLASHional
 -Bug Logging/Tracking, Regression/Certification/Smoke/Spot testing, Technical customer service
 
-EA Sports - Madden 19 & 20
+<b><u>EA Sports</b></u> - Madden 19 & 20
 -Maintaining and balancing the core and meta-game documentation
 -Creating and prototyping gameplay features / Gameplay tuning
 
-Digital Dreams Entertainment - Mutant Football League
+<b><u>Digital Dreams Entertainment</b></u> - Mutant Football League
 -Creation of Teams/Players/Plays/Playbooks and Balancing/Tuning player ratings
 
-ARX - Full Throttle
+<b><u>ARX</b></u> - Full Throttle
 -Conceptualization and creation of UI/3D Environments and documentation
 
 ## Work Samples
