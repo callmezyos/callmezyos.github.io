@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 <link rel="icon" href="images/favicon02.ico" type="image/x-icon"/>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap" rel="stylesheet"> 
 <img src="http://Callmezyos.github.io/images/AL1.jpg" alt="A headshot of yours truely" style="width:250px; height:250px;">
 
 My name is Alex Lueck and I am a Simulation, Software, and Game Developer. 
