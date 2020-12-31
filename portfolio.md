@@ -4,6 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
+<link rel="icon" href="Logo.ico" type="image/x-icon"/>
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap" rel="stylesheet"> 
 ## Alex Lueck - Game Design Demo Reel
