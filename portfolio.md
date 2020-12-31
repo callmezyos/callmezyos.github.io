@@ -24,5 +24,28 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; vertical-align: midd
 <b><u>ARX</u></b> - Full Throttle
 - Conceptualization and creation of UI/3D Environments and documentation
 
+## Skills
+<b><u>Programming Languages:</u></b>
+- HTML
+- C#
+- C++
+
+<b><u>Technological Toolset:</u></b>
+- Microsoft Office
+- Tortoise SVN / Git / P4
+- Confluence / Slack / Skype
+- Hansoft / JIRA / DevTrack
+- Adobe Photoshop / Illustrator
+- Unity 3D / Unreal Engine / Frostbite
+- Maya
+
+<b><u>Personal Skills:</u></b>
+- Professional QA Experience
+- AAA Game studio experience
+- Indie team studio experience
+- Agile development experience
+- 5+ years industry experience
+- Technical customer service experience
+
 ## Work Samples
 <img src="http://Callmezyos.github.io/images/AlexLueckWorkSamples.jpg" alt="Samples of some of my work" style="width:1750px;height:200px;vertical-align: middle">
