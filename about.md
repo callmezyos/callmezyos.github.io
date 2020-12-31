@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<link rel="icon" href="Logo.ico" type="image/x-icon"/>
+
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap" rel="stylesheet"> 
 <img src="http://Callmezyos.github.io/images/AL1.jpg" alt="A headshot of yours truely" style="width:250px; height:250px;">
