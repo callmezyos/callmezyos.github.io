@@ -47,5 +47,9 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; vertical-align: midd
 - 5+ years industry experience
 - Technical customer service experience
 
+## Education
+<b><u>Columbia College Chicago</u></b> - Bachelors of Arts (2015)
+- Game Design / Game Development
+
 ## Work Samples
 <img src="http://Callmezyos.github.io/images/AlexLueckWorkSamples.jpg" alt="Samples of some of my work" style="width:1750px;height:200px;vertical-align: middle">
