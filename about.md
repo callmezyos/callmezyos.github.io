@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 <link rel="icon" href="Logo.ico" type="image/x-icon"/>
