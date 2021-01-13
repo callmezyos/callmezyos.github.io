@@ -29,7 +29,8 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Balancing/Tuning player ratings
 
 <b>ARX</b> - Full Throttle
-- Conceptualization and creation of UI/3D Environments and documentation
+- Conceptualization and creation of UI/3D Environments
+- GDD documentation creation 
 
 ## <u>Skills</u>
 <b>Programming Languages:</b>
@@ -50,7 +51,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Professional QA Experience
 - AAA Game studio experience
 - Indie team studio experience
-- Agile development experience
+- Agile & Scrum development experience
 - 5+ years industry experience
 - Technical customer service experience
 
