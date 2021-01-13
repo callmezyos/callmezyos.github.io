@@ -49,8 +49,8 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 
 <b>Personal Skills:</b>
 - Professional QA Experience
-- AAA Game studio experience
-- Indie team studio experience
+- AAA studio experience
+- Indie studio experience
 - Agile & Scrum development experience
 - 5+ years industry experience
 - Technical customer service experience
