@@ -9,7 +9,7 @@ permalink: /portfolio/
 <link href="https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap" rel="stylesheet"> 
 ## Alex Lueck - Game Design Demo Reel
 
-<iframe width="560" height="315" vertical-align: "middle" src="https://www.youtube.com/embed/2gdbhwo8zW4" frameborder="0" 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2gdbhwo8zW4" frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## <u>Experience</u>
@@ -33,7 +33,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 
 ## <u>Skills</u>
 <b>Programming Languages:</b>
-- HTML
+- HTML / CSS
 - C#
 - C++
 
