@@ -9,19 +9,24 @@ permalink: /portfolio/
 <link href="https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap" rel="stylesheet"> 
 ## Alex Lueck - Game Design Demo Reel
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2gdbhwo8zW4" frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; vertical-align: middle; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" vertical-align: middle src="https://www.youtube.com/embed/2gdbhwo8zW4" frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## <u>Experience</u>
 <b>Jackbox Games</b> - Jackbox Party Pack 6 & 7 / Quiplash 2: InterLASHional
-- Bug Logging/Tracking, Regression/Certification/Smoke/Spot testing, Technical customer service
+- Bug Logging/Tracking 
+- Regression/Certification/Smoke/Spot testing 
+- Technical customer service
+- Guide document creation
 
 <b>EA Sports</b> - Madden 19 & 20
 - Maintaining and balancing the core and meta-game documentation
-- Creating and prototyping gameplay features / Gameplay tuning
+- Creating and prototyping gameplay features
+- Gameplay tuning
 
 <b>Digital Dreams Entertainment</b> - Mutant Football League
-- Creation of Teams/Players/Plays/Playbooks and Balancing/Tuning player ratings
+- Creation and updating of Teams/Players/Plays/Playbooks
+- Balancing/Tuning player ratings
 
 <b>ARX</b> - Full Throttle
 - Conceptualization and creation of UI/3D Environments and documentation
