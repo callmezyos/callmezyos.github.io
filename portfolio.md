@@ -48,12 +48,12 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Maya
 
 <b>Experience:</b>
-- Professional QA 
+- Quality Assurance 
 - AAA studio 
 - Indie studio 
 - Agile & Scrum development 
 - 5+ years industry 
-- Technical customer service 
+- Technical customer support
 
 ## <u>Education:</u>
 <b>Columbia College Chicago</b> - Bachelors of Arts (2015)
