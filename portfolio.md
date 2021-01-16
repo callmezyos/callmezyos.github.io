@@ -12,7 +12,7 @@ permalink: /portfolio/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2gdbhwo8zW4" frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## <u>Experience</u>
+## <u>Credits:</u>
 <b>Jackbox Games</b> - Jackbox Party Pack 6 & 7 / Quiplash 2: InterLASHional
 - Bug Logging/Tracking 
 - Regression/Certification/Smoke/Spot testing 
@@ -32,7 +32,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Conceptualization and creation of UI/3D Environments
 - GDD documentation creation 
 
-## <u>Skills</u>
+## <u>Skills:</u>
 <b>Programming Languages:</b>
 - HTML / CSS
 - C#
@@ -47,15 +47,15 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Unity 3D / Unreal Engine / Frostbite
 - Maya
 
-<b>Personal Skills:</b>
-- Professional QA Experience
-- AAA studio experience
-- Indie studio experience
-- Agile & Scrum development experience
-- 5+ years industry experience
-- Technical customer service experience
+<b>Experience:</b>
+- Professional QA 
+- AAA studio 
+- Indie studio 
+- Agile & Scrum development 
+- 5+ years industry 
+- Technical customer service 
 
-## <u>Education</u>
+## <u>Education:</u>
 <b>Columbia College Chicago</b> - Bachelors of Arts (2015)
 - Game Design / Game Development
 
