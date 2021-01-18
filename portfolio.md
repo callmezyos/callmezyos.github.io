@@ -47,19 +47,19 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Unity 3D / Unreal Engine / Frostbite
 - Maya
 
-<b>Experience:</b>
-- Quality Assurance 
-- AAA studio 
-- Indie studio 
+<b>Professional Experience:</b>
+- 5+ years in the industry 
+- Quality assurance 
+- AAA development 
+- Indie development 
 - Agile & Scrum development 
-- 5+ years industry 
 - Technical customer support
 
 ## <u>Education:</u>
 <b>Columbia College Chicago</b> - Bachelors of Arts (2015)
 - Game Design / Game Development
 
-<b><u><a href="http://callmezyos.github.io/images/Alex.Lueck.pdf" rel="nofollow noopener">View and download my resume here</a></u></b>
+## <b><u><a href="http://callmezyos.github.io/images/Alex.Lueck.pdf" rel="nofollow noopener">View and download my resume here</a></u></b>
 
 ## <u>Work Samples</u>
 <img src="http://Callmezyos.github.io/images/AlexLueckWorkSamples.jpg" alt="Samples of some of my work" style="width:1750px;height:200px;vertical-align: middle">
