@@ -10,7 +10,7 @@ permalink: /about/
 
 Hello! My name is Alex Lueck and I am a game, simulation, and software designer. 
 
-Currently I am a Quality Assurance Analyst for Jackbox Games working on the latest and greatest from Jackbox Games. Previously, I worked as a contract Quality Assurance Analyst, also with Jackbox Games on the Jackbox Party Pack 7, 6, and Quiplash 2: InterLASHtional, and as an Associate Game Designer working on Mutant Football League for Digital Dreams Entertainment, (previously from 2015-2/18). From 2018 to 2019 I was a Contract Game Designer working on Madden 19 and Madden 20 at EA Sports. From 2015 and 2016 I was a Simulation and Software Designer for ARX.    
+Currently I am a Quality Assurance Analyst for Jackbox Games working on the latest and greatest from Jackbox Games. Previously, I worked as a contract Quality Assurance Analyst, also with Jackbox Games on the Jackbox Party Pack 8, 7, 6, and Quiplash 2: InterLASHtional, and as an Associate Game Designer working on Mutant Football League for Digital Dreams Entertainment, (previously from 2015-2/18). From 2018 to 2019 I was a Contract Game Designer working on Madden 19 and Madden 20 at EA Sports. From 2015 and 2016 I was a Simulation and Software Designer for ARX.    
 
 I received a Bachelor of Fine Arts in Game Design with a concentration in Game Development from Columbia College Chicago in 2015. Working in this industry has given me the opportunity to develop and hone my arsenal of skills. My passion for creating is what drives my desire to be a part of this industry. I'm a quick learner who's always looking to jump into something new and exciting.
 
