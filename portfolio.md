@@ -13,16 +13,21 @@ permalink: /portfolio/
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## <u>Credits:</u>
-<b>Jackbox Games</b> - Jackbox Party Pack 6 & 7 / Quiplash 2: InterLASHional
+<b>Jackbox Games</b> - Jackbox Party Pack 6, 7, 8 / Quiplash 2: InterLASHional
 - Bug Logging/Tracking 
 - Regression/Certification/Smoke/Spot testing 
 - Technical customer service
-- Guide document creation
+- Guide document creation and maintenece
+- Writing test plans
+- Liasion between game team and rest of QA
+- Hiring manager
 
 <b>EA Sports</b> - Madden 19 & 20
 - Maintaining and balancing the core and meta-game documentation
 - Creating and prototyping gameplay features
 - Gameplay tuning
+- Created the 'Off-ball injury banner'
+- Led "Play-Now-Live" feature for Madden 19
 
 <b>Digital Dreams Entertainment</b> - Mutant Football League
 - Creation and updating of Teams/Players/Plays/Playbooks
@@ -50,8 +55,9 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 <b>Professional Experience:</b>
 - 5+ years in the industry 
 - Quality assurance 
-- AAA development 
-- Indie development 
+- AAA development experience
+- Indie development experience
+- Hiring Manager experience
 - Agile & Scrum development 
 - Technical customer support
 
