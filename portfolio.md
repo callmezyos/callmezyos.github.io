@@ -13,14 +13,15 @@ permalink: /portfolio/
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## <u>Credits:</u>
-<b>Jackbox Games</b> - Jackbox Party Pack 6, 7, 8 / Quiplash 2: InterLASHional
+<b>Jackbox Games</b> - Jackbox Party Pack 6, 7, 8 / Quiplash 2: InterLASHional / The Jackbox Party Starter
 - Bug Logging/Tracking 
-- Regression/Certification/Smoke/Spot testing 
+- Regression/Certification/Smoke/Spot testing on a wibe range of devices and consoles
 - Technical customer service
 - Guide document creation and maintenece
 - Writing test plans
 - Liasion between game team and rest of QA
 - Hiring manager
+- Designer
 
 <b>EA Sports</b> - Madden 19 & 20
 - Maintaining and balancing the core and meta-game documentation
