@@ -9,11 +9,11 @@ permalink: /portfolio/
 <link href="https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap" rel="stylesheet"> 
 ## Alex Lueck - Game Design Demo Reel
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2gdbhwo8zW4" frameborder="0" 
+<iframe width="560" height="315" display="block" src="https://www.youtube.com/embed/2gdbhwo8zW4" frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## <u>Credits:</u>
-<b>Jackbox Games</b> - Jackbox Party Pack 6, 7, 8 / Quiplash 2: InterLASHional / The Jackbox Party Starter
+<b>Jackbox Games</b> - Jackbox Party Pack 6, 7, 8, 9 / Quiplash 2: InterLASHional / The Jackbox Party Starter
 - Bug Logging/Tracking 
 - Regression/Certification/Smoke/Spot testing on a wibe range of devices and consoles
 - Technical customer service
@@ -27,7 +27,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Maintaining and balancing the core and meta-game documentation
 - Creating and prototyping gameplay features
 - Gameplay tuning
-- Created the 'Off-ball injury banner'
+- Created the 'Off-ball injury banner' feature
 - Led "Play-Now-Live" feature for Madden 19
 
 <b>Digital Dreams Entertainment</b> - Mutant Football League
@@ -54,8 +54,10 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Maya
 
 <b>Professional Experience:</b>
-- 5+ years in the industry 
-- Quality assurance 
+- 7+ years in the industry
+- Game Design experience 
+- Quality assurance experience
+- Senior QA experience
 - AAA development experience
 - Indie development experience
 - Hiring Manager experience
