@@ -14,5 +14,5 @@ Currently, I am a Quality Assurance Analyst working on the latest and greatest f
 
 I received my Bachelor of Fine Arts in Game Design with a concentration in Game Development from Columbia College Chicago in 2015. Working in this industry has given me the opportunity to develop and hone my arsenal of skills all while working along side diverse co-workers of various disciplines. My passion for creating is what drives my desire to be a part of this industry. I'm a quick learner who's always looking to jump into something new and exciting.
 
-<div align="center"><a class="twitter-timeline tw-align-center" data-lang="en" data-width="500" data-height="500" data-theme="dark" href="https://twitter.com/Call_Me_ZYOS?ref_src=twsrc%5Etfw">Tweets by Call_Me_ZYOS</a></div> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<div><a class="twitter-timeline tw-align-center" data-lang="en" data-width="500" data-height="500" data-theme="dark" href="https://twitter.com/Call_Me_ZYOS?ref_src=twsrc%5Etfw">Tweets by Call_Me_ZYOS</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
