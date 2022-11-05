@@ -9,8 +9,8 @@ permalink: /portfolio/
 <link href="https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap" rel="stylesheet"> 
 ## Alex Lueck - Game Design Demo Reel
 
-<iframe width="560" height="315" style="align:center" src="https://www.youtube.com/embed/2gdbhwo8zW4" frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/2gdbhwo8zW4" frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## <u>Credits:</u>
 <b>Jackbox Games</b> - Jackbox Party Pack 6, 7, 8, 9 / Quiplash 2: InterLASHional / The Jackbox Party Starter
