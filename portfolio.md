@@ -15,7 +15,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 ## <u>Credits:</u>
 <b>Jackbox Games</b> - Jackbox Party Pack 6, 7, 8, 9 / Quiplash 2: InterLASHional / The Jackbox Party Starter
 - Bug Logging/Tracking 
-- Regression/Certification/Smoke/Spot testing on a wibe range of devices and consoles
+- Regression/Certification/Smoke/Spot testing on a wide range of devices and consoles
 - Technical customer service
 - Guide document creation and maintenece
 - Writing test plans
