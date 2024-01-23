@@ -13,7 +13,7 @@ permalink: /portfolio/
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## <u>Credits:</u>
-<b>Jackbox Games</b> - Jackbox Party Pack 6, 7, 8, 9 / Quiplash 2: InterLASHional / The Jackbox Party Starter
+<b>Jackbox Games</b> - Jackbox Party Pack 6, 7, 8, 9, 10 / Quiplash 2: InterLASHional / The Jackbox Party Starter
 - Bug Logging/Tracking 
 - Regression/Certification/Smoke/Spot testing on a wide range of devices and consoles
 - Technical customer service
@@ -22,6 +22,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Liasion between game team and rest of QA
 - Hiring manager
 - Designer
+- Mentor others in essential QA responsibilities
 
 <b>EA Sports</b> - Madden 19 & 20
 - Maintaining and balancing the core and meta-game documentation
@@ -54,7 +55,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Maya
 
 <b>Professional Experience:</b>
-- 7+ years in the industry
+- 8+ years in the industry
 - Game Design experience 
 - Quality assurance experience
 - Senior QA experience
