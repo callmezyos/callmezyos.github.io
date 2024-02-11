@@ -2,7 +2,6 @@
 layout: post
 title: Game Photography page is LIVE
 ---
-
 I am pleased to announce that the 'Game Photography' page of the site is now live! 
 
 Over the last couple years I had been taking screenshots of the games that I have
