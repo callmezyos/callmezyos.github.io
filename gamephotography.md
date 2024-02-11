@@ -10,7 +10,7 @@ permalink: /gamephotography/
 ## The Last of Us: Part 1
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/LzktVhl"  ><a href="//imgur.com/a/LzktVhl">The Last of Us Part 1 Screenshots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
-##Cyberpunk 2077
+## Cyberpunk 2077
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/86oSVHz"  ><a href="//imgur.com/a/86oSVHz">Cyberpunk 2077 Screenshots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
 ## Final Fantasy 7: Remake
