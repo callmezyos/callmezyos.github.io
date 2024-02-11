@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Game Photography page is LIVE!
+title: Game Photography page is LIVE
 ---
 
 I am pleased to announce that the 'Game Photography' page of the site is now live! 
