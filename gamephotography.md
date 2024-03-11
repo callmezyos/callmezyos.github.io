@@ -7,6 +7,9 @@ permalink: /gamephotography/
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap" rel="stylesheet"> 
 
+## Shadow of the Colossus
+<div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/jzJFdb3"  ><a href="//imgur.com/a/jzJFdb3">Shadow of the Colossus Screenshots!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+
 ## The Last of Us: Part 1
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/LzktVhl"  ><a href="//imgur.com/a/LzktVhl">The Last of Us Part 1 Screenshots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
