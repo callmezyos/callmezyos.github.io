@@ -75,7 +75,7 @@ Designer
 <b>Columbia College Chicago</b> - Bachelors of Arts (2015)
 - Game Design / Game Development
 
-## <b><u><a href="http://callmezyos.github.io/images/Alex.Lueck.pdf" rel="nofollow noopener">View & download my resume</a></u></b>
-
 ## <u>Work Samples</u>
 <img src="http://Callmezyos.github.io/images/AlexLueckWorkSamples.jpg" alt="Samples of some of my work" style="width:1750px;height:200px;vertical-align: middle">
+
+## <b><u><a href="http://callmezyos.github.io/images/Alex.Lueck.pdf" rel="nofollow noopener">View & download my resume</a></u></b>
