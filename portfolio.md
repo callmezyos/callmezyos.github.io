@@ -14,17 +14,19 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 
 ## <u>Credits:</u>
 <b>Jackbox Games</b> - Jackbox Party Pack 6, 7, 8, 9, 10 / Quiplash 2: InterLASHional / The Jackbox Party Starter
+Senior Quality Assurance Analyst
 - Bug Logging/Tracking 
 - Regression/Certification/Smoke/Spot testing on a wide range of devices and consoles
 - Technical customer service
-- Guide document creation and maintenece
-- Writing test plans
-- Liasion between game team and rest of QA
+- Document creation and maintenece
+- Writing and maintaining test plans
+- QA liasion between game team and rest of QA
 - Hiring manager
 - Designer
 - Mentor others in essential QA responsibilities
 
 <b>EA Sports</b> - Madden 19 & 20
+Designer
 - Maintaining and balancing the core and meta-game documentation
 - Creating and prototyping gameplay features
 - Gameplay tuning
@@ -32,11 +34,15 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Led "Play-Now-Live" feature for Madden 19
 
 <b>Digital Dreams Entertainment</b> - Mutant Football League
-- Creation and updating of Teams/Players/Plays/Playbooks
-- Balancing/Tuning player ratings
+Designer
+- Creation of Teams/Players/Plays/Playbooks
+- Update and maintenance of Teams and Players during the offseason 
+- Balancing / Tuning player ratings
 
 <b>ARX</b> - Full Throttle
-- Conceptualization and creation of UI/3D Environments
+Designer
+- Conceptualization and creation of UI
+- Level Designer
 - GDD documentation creation 
 
 ## <u>Skills:</u>
