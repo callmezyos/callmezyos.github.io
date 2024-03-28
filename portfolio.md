@@ -92,7 +92,10 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - <a href="http://callmezyos.github.io/images/Dym_GDD.pdf" rel="nofollow noopener">Take a gander at the Dym GDD!</a>
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/COXTqrT"  ><a href="//imgur.com/a/COXTqrT">Dym - Dym / Slug /Hover Slug Models</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
-- If you would like to play a VERY ROUGH demo of Dym and take a look at the intro cutscene you can download the zip files from this Google Drive link: <a href="https://drive.google.com/file/d/1isiVbZ480aGLULRlwdhIZ1Dcv5c2qplc/view?usp=drive_link">Dym Demo Package</a>
+- Would you like to play a VERY ROUGH demo of Dym and take a look at the intro cutscene?
+- You can download the zip files from this Google Drive link: <a href="https://drive.google.com/file/d/1isiVbZ480aGLULRlwdhIZ1Dcv5c2qplc/view?usp=drive_link">Dym Demo Package</a>
+- Once you download and extract the files you can follow the 'README' for more instructions
+
 
 <img src="http://Callmezyos.github.io/images/Dym-Gif-Pt2-OPTIMZED.gif" alt="A gif showing off the level design of Dym" style="width:500px;height:200px;vertical-align: right">
 
