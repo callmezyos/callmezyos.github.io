@@ -85,7 +85,8 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 ### <b><u>Dym</u></b>
 <img src="http://Callmezyos.github.io/images/Dym-Gif-Pt1-OPTIMZED.gif" alt="A gif showing off the level design of Dym" style="width:500px;height:200px;vertical-align: left">
 
-- Dym was a concept I came up with in college and had the priviledge of leading a small team of people into developing a vertical slice of.
+- Dym was an original concept that I came up then merged with another idea in college.
+- I had the privilege of leading a small team of people from various disciplines into developing a vertical slice of the game.
 - Over the course of 15 weeks we concepted the idea and built the entire verticle slice from scratch.
 - Part of our concepting including making a GDD explaining all of the facets of the game. Its a bit of out scope, but what do you expect from college students. 
 - <a href="http://callmezyos.github.io/images/Dym_GDD.pdf" rel="nofollow noopener">Take a gander at the Dym GDD!</a>
