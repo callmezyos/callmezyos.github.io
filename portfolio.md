@@ -83,7 +83,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 <img src="http://Callmezyos.github.io/images/AlexLueckWorkSamples.jpg" alt="Samples of some of my work" style="width:1750px;height:200px;vertical-align: middle">
 
 ### <b><u>DyM</u></b>
-<img src="http://Callmezyos.github.io/images/Dym-Gif-Pt1-OPTIMZED.gif" alt="A gif showing off the level design of Dym" style="width:300px;height:500px;vertical-align: left">
+<img src="http://Callmezyos.github.io/images/Dym-Gif-Pt1-OPTIMZED.gif" alt="A gif showing off the level design of Dym" style="width:500px;height:200px;vertical-align: left">
 
 - Dym was a concept I came up with in college and had the priviledge of leading a small team of people into developing a vertical slice of.
 - Over the course of 15 weeks we concepted the idea and built the entire verticle slice from scratch.
@@ -91,6 +91,6 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - <a href="http://callmezyos.github.io/images/Dym_GDD.pdf" rel="nofollow noopener">Take a gander at the Dym GDD!</a>
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/COXTqrT"  ><a href="//imgur.com/a/COXTqrT">Dym - Dym / Slug /Hover Slug Models</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
-<img src="http://Callmezyos.github.io/images/Dym-Gif-Pt2-OPTIMZED.gif" alt="A gif showing off the level design of Dym" style="width:300px;height:500px;vertical-align: right">
+<img src="http://Callmezyos.github.io/images/Dym-Gif-Pt2-OPTIMZED.gif" alt="A gif showing off the level design of Dym" style="width:500px;height:200px;vertical-align: right">
 
 ## <b><u><a href="http://callmezyos.github.io/images/Alex.Lueck.pdf" rel="nofollow noopener">View & download my resume</a></u></b>
