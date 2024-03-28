@@ -82,4 +82,11 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 ## <u>Work Samples</u>
 <img src="http://Callmezyos.github.io/images/AlexLueckWorkSamples.jpg" alt="Samples of some of my work" style="width:1750px;height:200px;vertical-align: middle">
 
+<b><u><DyM</b></u>
+<img src="images/Dym-Gif-Pt1-OPTIMZED.gif" alt="A gif showing off the level design of Dym" style="width:1750px;height:200px;vertical-align: left">
+<img src="images/Dym-Gif-Pt2-OPTIMZED.gif" alt="A gif showing off the level design of Dym" style="width:1750px;height:200px;vertical-align: right">
+- Dym was a concept I came up with in college and had the priviledge of leading a small team of people into developing a vertical slice of.
+- Over the course of 15 weeks we concepted the idea and built the entire verticle slice from scratch.
+<a href="http://callmezyos.github.io/images/Dym_GDD.pdf" rel="nofollow noopener">View the Dym GDD!</a>
+
 ## <b><u><a href="http://callmezyos.github.io/images/Alex.Lueck.pdf" rel="nofollow noopener">View & download my resume</a></u></b>
