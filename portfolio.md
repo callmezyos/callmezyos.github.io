@@ -100,7 +100,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - The Skull Kid takes place in the world of The Legend of Zelda: Majora's Mask but from the view of the Skull Kid
 - For this project I was the Level Designer
 
-### <b><u>Charred Alive</b></u>
+### <b><u>Charred Alive</u></b>
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/90tvLY6"  ><a href="//imgur.com/a/90tvLY6">Charred Alive - Simulation and Serious Games Level</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 - Charred Alive was one of the first college projects I worked on (you can tell by the level design lol)
 - Was designed for a Simulation and Serious games class with the intention of teaching people about fire safety
