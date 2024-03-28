@@ -82,7 +82,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 ## <u>Work Samples</u>
 <img src="http://Callmezyos.github.io/images/AlexLueckWorkSamples.jpg" alt="Samples of some of my work" style="width:1750px;height:200px;vertical-align: middle">
 
-### <b><u>DyM</u></b>
+### <b><u>Dym</u></b>
 <img src="http://Callmezyos.github.io/images/Dym-Gif-Pt1-OPTIMZED.gif" alt="A gif showing off the level design of Dym" style="width:500px;height:200px;vertical-align: left">
 
 - Dym was a concept I came up with in college and had the priviledge of leading a small team of people into developing a vertical slice of.
