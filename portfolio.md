@@ -105,4 +105,4 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Charred Alive was one of the first college projects I worked on (you can tell by the level design lol)
 - Was designed for a Simulation and Serious games class with the intention of teaching people about fire safety
 
-## <b><u><a href="http://callmezyos.github.io/images/Alex.Lueck.pdf" rel="nofollow noopener">View & download my resume</a></u></b>
+## <div align="center"><b><u><a href="http://callmezyos.github.io/images/Alex.Lueck.pdf" rel="nofollow noopener">View & download my resume</a></u></b></div>
