@@ -94,4 +94,15 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 
 <img src="http://Callmezyos.github.io/images/Dym-Gif-Pt2-OPTIMZED.gif" alt="A gif showing off the level design of Dym" style="width:500px;height:200px;vertical-align: right">
 
+### <b><u>The Skull Kid</u></b>
+<img src="http://Callmezyos.github.io/images/SkullKid-Optimized.gif" alt="A gif showing off the Skull Kid level" style="width:500px;height:200px;vertical-align: right">
+- The Skull Kid was a college project in which a small team just a made a vertical slice of on original concept in a few weeks.
+- The Skull Kid takes place in the world of The Legend of Zelda: Majora's Mask but from the view of the Skull Kid
+- For this project I was the Level Designer
+
+### <b><u>Charred Alive</b></u>
+<div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/90tvLY6"  ><a href="//imgur.com/a/90tvLY6">Charred Alive - Simulation and Serious Games Level</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+- Charred Alive was one of the first college projects I worked on (you can tell by the level design lol)
+- Was designed for a Simulation and Serious games class with the intention of teaching people about fire safety
+
 ## <b><u><a href="http://callmezyos.github.io/images/Alex.Lueck.pdf" rel="nofollow noopener">View & download my resume</a></u></b>
