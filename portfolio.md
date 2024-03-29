@@ -33,6 +33,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Creating and prototyping gameplay features
 - Gameplay tuning
 - Created the 'Off-ball injury banner' feature
+<img src="http://Callmezyos.github.io/images/Offball Injury Banner-OPTIMIZED.gif" alt="A gif showing off the Offball Injury banner in Madden" style="width:500px;height:200px;vertical-align: left">
 - Led "Play-Now-Live" feature for Madden 19
 
 ### <b>Digital Dreams Entertainment</b> - Mutant Football League
