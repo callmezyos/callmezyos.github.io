@@ -13,7 +13,7 @@ permalink: /portfolio/
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## <u>Credits:</u>
-<b>Jackbox Games</b> - Jackbox Party Pack 6, 7, 8, 9, 10 / Quiplash 2: InterLASHional / The Jackbox Party Starter
+### <b>Jackbox Games</b> - Jackbox Party Pack 6, 7, 8, 9, 10 / Quiplash 2: InterLASHional / The Jackbox Party Starter
 
 - Title: <b>Senior Quality Assurance Analyst</b>
 - Bug Logging/Tracking 
@@ -26,7 +26,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Designer
 - Mentor others in essential QA responsibilities
 
-<b>EA Sports</b> - Madden 19 & 20
+### <b>EA Sports</b> - Madden 19 & 20
 
 - Title: <b>Designer</b>
 - Maintaining and balancing the core and meta-game documentation
@@ -35,14 +35,14 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Created the 'Off-ball injury banner' feature
 - Led "Play-Now-Live" feature for Madden 19
 
-<b>Digital Dreams Entertainment</b> - Mutant Football League
+### <b>Digital Dreams Entertainment</b> - Mutant Football League
 
 - Title: <b>Designer</b>
 - Creation of Teams/Players/Plays/Playbooks
 - Update and maintenance of Teams and Players during the offseason 
 - Balancing / Tuning player ratings
 
-<b>ARX</b> - Full Throttle
+### <b>ARX</b> - Full Throttle
 <img src="http://Callmezyos.github.io/images/Full Throttle Gameplay Gif.gif" alt="A gif showing off the gameplay of Full Throttle" style="width:500px;height:200px;vertical-align: left">
 - Title: <b>Designer</b>
 - Conceptualization and creation of UI
