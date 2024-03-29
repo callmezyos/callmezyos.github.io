@@ -48,7 +48,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Conceptualization and creation of UI
 - Level Designer
 - GDD documentation creation
-<div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/KEFP76H"  ><a href="//imgur.com/a/KEFP76H">Full Throttle - Environment and Model Screenshots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+
 
 
 ## <u>Skills:</u>
