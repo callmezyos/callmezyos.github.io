@@ -97,7 +97,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 ### <b>Would you like to play a VERY ROUGH demo of Dym?</b>
 - You can download the zip files from this Google Drive link: <a href="https://drive.google.com/file/d/1isiVbZ480aGLULRlwdhIZ1Dcv5c2qplc/view?usp=drive_link">Dym Demo Package</a>
 - Once you download and extract the files you can follow the 'README' contained within for more instructions.
-- Also included is the intro cutscene, which did not make it into the Demo build but I stil wanted to show it off <3
+- Also included is the intro cutscene, which did not make it into the Demo build but I still wanted to show it off <3
 
 <img src="http://Callmezyos.github.io/images/Dym-Gif-Pt2-OPTIMZED.gif" alt="A gif showing off the level design of Dym" style="width:500px;height:200px;vertical-align: right">
 
