@@ -55,30 +55,30 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 <img src="http://Callmezyos.github.io/images/Full Throttle HUD Gif.gif" alt="A gif showing off the HUD of Full Throttle" style="width:500px;height:200px;vertical-align: left">
 
 ## <u>Skills:</u>
-<b>Programming Languages:</b>
+### <b>Programming Languages:</b>
 - HTML / CSS
 - C#
 - C++
 
-<b>Technological Toolset:</b>
-- Microsoft Office
-- Tortoise SVN / Git / P4
-- Confluence / Slack / Skype
-- Hansoft / JIRA / DevTrack
-- Adobe Photoshop / Illustrator
-- Unity 3D / Unreal Engine / Frostbite
-- Maya
+### <b>Technological Toolset:</b>
+- Microsoft Office suite of programs
+- Tortoise SVN / Git / P4 version control systems
+- Confluence / Slack / Skype communication software
+- Hansoft / JIRA / DevTrack project and bug tracking software familiarity 
+- Adobe Photoshop / Illustrator graphics editing software familiarity
+- Unity / Unreal Engine / Frostbite game engine familiarity
+- Maya 3D modeling software familiarity 
 
-<b>Professional Experience:</b>
-- 8+ years in the industry
+### <b>Professional Experience:</b>
+- 9+ years in the game industry
 - Game Design experience 
-- Quality assurance experience
+- Quality Assurance experience
 - Senior QA experience
 - AAA development experience
 - Indie development experience
 - Hiring Manager experience
-- Agile & Scrum development 
-- Technical customer support
+- Familiar with Agile & Scrum development 
+- Technical customer support experience
 
 ## <u>Education:</u>
 <b>Columbia College Chicago</b> - Bachelors of Arts (2015)
