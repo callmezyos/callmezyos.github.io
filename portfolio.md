@@ -49,7 +49,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Level Designer
 - GDD documentation creation
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/slnL7sT"><a href="//imgur.com/a/slnL7sT">Full Throttle - Bike Model and Environment Screenshots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
-<img src="http://Callmezyos.github.io/images/Full Throttle HUD.gif" alt="A gif showing off the HUD of Full Throttle" style="width:500px;height:200px;vertical-align: left">
+<img src="http://Callmezyos.github.io/images/Full Throttle HUD Gif.gif" alt="A gif showing off the HUD of Full Throttle" style="width:500px;height:200px;vertical-align: left">
 
 ## <u>Skills:</u>
 <b>Programming Languages:</b>
