@@ -17,7 +17,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 
 - Title: <b>Senior Quality Assurance Analyst</b>
 - Bug Logging/Tracking 
-- Regression/Certification/Smoke/Spot testing on a wide range of devices and consoles
+- Regression / Certification / Smoke / Spot testing on a wide range of devices and consoles
 - Technical customer service
 - Document creation and maintenece
 - Writing and maintaining test plans
