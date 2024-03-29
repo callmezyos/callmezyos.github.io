@@ -93,7 +93,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Dym was an original concept that I came up then merged with another idea in college.
 - I had the privilege of leading a small team of people from various disciplines into developing a vertical slice of the game.
 - Over the course of 15 weeks we concepted the idea and built the entire verticle slice from scratch.
-- Part of our concepting including making a GDD explaining all of the facets of the game. Its a bit of out scope, but what do you expect from college students. 
+- Part of our concepting including making a GDD explaining all of the facets of the game. Since the game was never released and we were in college, the GDD is out of scope. 
 <a href="http://callmezyos.github.io/images/Dym_GDD.pdf" rel="nofollow noopener">Take a look at the Dym GDD!</a>
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/COXTqrT"  ><a href="//imgur.com/a/COXTqrT">Dym - Dym / Slug /Hover Slug Models</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
