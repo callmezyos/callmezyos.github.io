@@ -23,7 +23,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Writing and maintaining test plans
 - QA liasion between game team and rest of QA
 - Hiring manager
-- Designer
+- Involved in the design making process
 - Mentor others in essential QA responsibilities
 
 ### <b>EA Sports</b> - Madden 19 & 20
@@ -32,6 +32,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Maintaining and balancing the core and meta-game documentation
 - Creating and prototyping gameplay features
 - Gameplay tuning
+- Came up with the Madden 19 Legacy Achievements
 - Created the 'Off-ball injury banner' feature
 <img src="http://Callmezyos.github.io/images/Offball Injury Banner-OPTIMIZED.gif" alt="A gif showing off the Offball Injury banner in Madden" style="width:500px;height:200px;vertical-align: left">
 - Led "Play-Now-Live" feature for Madden 19
@@ -39,7 +40,8 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 ### <b>Digital Dreams Entertainment</b> - Mutant Football League
 
 - Title: <b>Designer</b>
-- Creation of Teams/Players/Plays/Playbooks
+- Creation of Teams / Players / Plays / Playbooks
+<img src="http://Callmezyos.github.io/images/MFL.gif" alt="A gif showing off my work on MFL" style="width:500px;height:200px;vertical-align: left">
 - Update and maintenance of Teams and Players during the offseason 
 - Balancing / Tuning player ratings
 
