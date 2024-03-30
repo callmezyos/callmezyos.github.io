@@ -98,7 +98,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/COXTqrT"  ><a href="//imgur.com/a/COXTqrT">Dym - Dym / Slug /Hover Slug Models</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
 ### <b>Would you like to play a VERY ROUGH demo of Dym?</b>
-- You can download the zip files from this Google Drive link: <a href="https://drive.google.com/file/d/17JJX_2tS0FVANzfPiWx_Q7tBmRyrQO-z/view?usp=sharing">Dym Demo Package</a>
+- You can download the zip files from this Google Drive link: <a href="https://drive.google.com/file/d/1GkCfJGKMCPzQLIG90WcN_pqUAZPg6ZiZ/view?usp=sharing">Dym Demo Package</a>
 - Once you download and extract the files you can follow the 'README' contained within for more instructions.
 - Also included is the intro cutscene, which did not make it into the Demo build but I still wanted to show it off <3
 
