@@ -10,7 +10,7 @@ permalink: /about/
 
 Chicago area-based creative Alex Lueck is a lifelong sports fan with a serious enthusiasm for football. In his career, 
 Alex has combined his love for sports with his knowledge and passion for gaming, working as a designer on Madden 19 and 20, 
-Electronic Arts' (aka EA Sports) mega-popular Madden NFL gaming franchises. Alex currently works in a Senior QA position for 
+Electronic Arts' (aka EA Sports) mega-popular Madden NFL gaming franchise. Alex currently works in a Senior QA position for 
 the Chicago-based video game developer Jackbox Games.
 
 "Working in this industry has given me the opportunity to develop and hone my arsenal of skills all while working along side diverse co-workers of various disciplines. 
