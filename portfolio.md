@@ -16,7 +16,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 ### <b>Jackbox Games</b> - Jackbox Party Pack 6, 7, 8, 9, 10 / Quiplash 2: InterLASHional / The Jackbox Party Starter
 
 - Title: <b>Senior Quality Assurance Analyst</b>
-- Bug Logging/Tracking 
+- Bug Logging / Tracking 
 - Regression / Certification / Smoke / Spot testing on a wide range of devices and consoles
 - Technical customer service
 - Document creation and maintenece
@@ -31,11 +31,11 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Title: <b>Designer</b>
 - Maintaining and balancing the core and meta-game documentation
 - Creating and prototyping gameplay features
-- Gameplay tuning
-- Came up with the Madden 19 Legacy Achievements
+- Gameplay tuning + Injury / Rookie generator tuning
+- Came up with the Madden 19 Franchise Legacy Achievements
 - Created the 'Off-ball injury banner' feature
 <img src="http://Callmezyos.github.io/images/Offball Injury Banner-OPTIMIZED.gif" alt="A gif showing off the Offball Injury banner in Madden" style="width:500px;height:200px;vertical-align: left">
-- Led "Play-Now-Live" feature for Madden 19
+- Led the "Play-Now-Live" feature for Madden 19
 
 ### <b>Digital Dreams Entertainment</b> - Mutant Football League
 
@@ -43,13 +43,13 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Creation of Teams / Players / Plays / Playbooks
 <img src="http://Callmezyos.github.io/images/MFL.gif" alt="A gif showing off my work on MFL" style="width:500px;height:200px;vertical-align: left">
 - Update and maintenance of Teams and Players during the offseason 
-- Balancing / Tuning player ratings
+- Balancing / Tuning player and team ratings
 
 ### <b>ARX</b> - Full Throttle
 <img src="http://Callmezyos.github.io/images/Full Throttle Gameplay Gif.gif" alt="A gif showing off the gameplay of Full Throttle" style="width:500px;height:200px;vertical-align: left">
 - Title: <b>Designer</b>
-- Conceptualization and creation of UI
-- Level Designer
+- Conceptualization and creation of UI / In-game HUD
+- Level Designer of all in-game environments
 - GDD documentation creation
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/slnL7sT"><a href="//imgur.com/a/slnL7sT">Full Throttle - Bike Model and Environment Screenshots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 <img src="http://Callmezyos.github.io/images/Full Throttle HUD Gif.gif" alt="A gif showing off the HUD of Full Throttle" style="width:500px;height:200px;vertical-align: left">
@@ -73,11 +73,11 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - 9+ years in the game industry
 - Game Design experience 
 - Quality Assurance experience
-- Senior QA experience
+- Senior Quality Assurance experience
 - AAA development experience
 - Indie development experience
 - Hiring Manager experience
-- Familiar with Agile & Scrum development 
+- Familiar with Agile & Scrum game development 
 - Technical customer support experience
 
 ## <u>Education:</u>
@@ -93,7 +93,10 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Dym was an original concept that I came up then merged with another idea in college.
 - I had the privilege of leading a small team of people from various disciplines into developing a vertical slice of the game.
 - Over the course of 15 weeks we concepted the idea and built the entire verticle slice from scratch.
-- Part of our concepting including making a GDD explaining all of the facets of the game. Since the game was never released and we were in college, the GDD is out of scope. 
+- I was primarily in charge of the art and design of the game. 
+- Part of our preproduction process included making a GDD explaining all of the facets of the game. Since the game was never released and we were in college, the GDD is out of scope.
+- Ideally, Dym was going to be Metroid-vania / Contra like with waaaaay more work on the time ability.
+- Main features included: Plane switching, killable enemies, working 'slow time ability', working weapon arm, explorable environment, spline camera, and an intro!
 <a href="http://callmezyos.github.io/images/Dym_GDD.pdf" rel="nofollow noopener">Take a look at the Dym GDD!</a>
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/COXTqrT"  ><a href="//imgur.com/a/COXTqrT">Dym - Dym / Slug /Hover Slug Models</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
@@ -107,12 +110,18 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 ### <b><u>The Skull Kid</u></b>
 <img src="http://Callmezyos.github.io/images/SkullKid-Optimized.gif" alt="A gif showing off the Skull Kid level" style="width:500px;height:200px;vertical-align: right">
 - The Skull Kid was a college project in which a small team just a made a vertical slice of on original concept in a few weeks.
+- Disciplines were split up amongst the students, who then worked collaboratively to put together a GDD and vertical slice.
 - The Skull Kid takes place in the world of The Legend of Zelda: Majora's Mask but from the view of the Skull Kid
 - For this project I was the Level Designer
+- Ideally, this is where the game would start. Having players go around the village causing mayhem, resulting in the eventual theft of Majora Mask. 
+- Main features included: Skull kid model, Spline camera intro,working mini-map, and multiple objectives [although the footage only depicts 1 objective] 
 
 ### <b><u>Charred Alive</u></b>
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/90tvLY6"  ><a href="//imgur.com/a/90tvLY6">Charred Alive - Simulation and Serious Games Level</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 - Charred Alive was one of the first college projects I worked on (you can tell by the level design lol)
 - Was designed for a Simulation and Serious games class with the intention of teaching people about fire safety
+- Players started on the 2nd floor of a burning building and had to successfully and safely get out of the building in a limited amount of time, while following the fire safety procedures. 
+- Ideally, there would have been a quiz before you started the level, then you would take what you learned in the quiz and apply it to the simulation.
+- Main features included: Testing door knob temperature, staying low beneath the smoke, pulling alarms, and prompting players about not using the elevator.  
 
 ## <b><u><a href="http://callmezyos.github.io/images/Alex.Lueck.pdf" rel="nofollow noopener">View & download my resume</a></u></b>
