@@ -124,4 +124,4 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Ideally, there would have been a quiz before you started the level, then you would take what you learned in the quiz and apply it to the simulation.
 - Main features included: Testing door knob temperature, staying low beneath the smoke, pulling alarms, and prompting players about not using the elevator.  
 
-## <b><u><a href="http://callmezyos.github.io/images/Alex.Lueck.pdf" rel="nofollow noopener">View & download my resume</a></u></b>
+## <div align="center"><b><u><a href="http://callmezyos.github.io/images/Alex.Lueck.pdf" rel="nofollow noopener">View & download my resume</a></u></b></div>
