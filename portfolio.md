@@ -19,7 +19,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Bug Logging / Tracking 
 - Regression / Certification / Smoke / Spot testing on a wide range of devices and consoles
 - Technical customer service
-- Document creation and maintenece
+- Various technical creation and maintenece
 - Writing and maintaining test plans
 - QA liasion between game team and rest of QA
 - Hiring manager
