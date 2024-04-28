@@ -123,5 +123,3 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Players started on the 2nd floor of a burning building and had to successfully and safely get out of the building in a limited amount of time, while following the fire safety procedures. 
 - Ideally, there would have been a quiz before you started the level, then you would take what you learned in the quiz and apply it to the simulation.
 - Main features included: Testing door knob temperature, staying low beneath the smoke, pulling alarms, and prompting players about not using the elevator.  
-
-## <b><u><a href="http://callmezyos.github.io/images/Alex.Lueck.pdf" rel="nofollow noopener">View & download my resume</a></u></b>
