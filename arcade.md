@@ -15,5 +15,5 @@ permalink: /arcade/
 <img src="http://Callmezyos.github.io/images/Dym-Gif-Pt2-OPTIMZED.gif" alt="A gif showing off the level design of Dym" style="width:500px;height:200px;vertical-align: right">
 
 ### <b>Boop</b>
--Boop is a simple little game in which players boop the sides of the game screen to gain points while avoiding getting booped by the red squares.
--You can download a zip file containing the game from this Google Drive link: <a href="https://drive.google.com/file/d/19YEl3BG8vBv__WVn0Zj5uMxla-ToLdqF/view?usp=sharing">Boop Demo Package</a>
+- Boop is a simple little game in which players boop the sides of the game screen to gain points while avoiding getting booped by the red squares.
+- You can download a zip file containing the game from this Google Drive link: <a href="https://drive.google.com/file/d/19YEl3BG8vBv__WVn0Zj5uMxla-ToLdqF/view?usp=sharing">Boop Demo Package</a>
