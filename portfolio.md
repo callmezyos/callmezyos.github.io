@@ -88,7 +88,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 <img src="http://Callmezyos.github.io/images/AlexLueckWorkSamples.jpg" alt="Samples of some of my work" style="width:1750px;height:200px;vertical-align: middle">
 
 ### <b><u>Dym</u></b>
-<img src="http://Callmezyos.github.io/images/Dym-Gif-Pt1-OPTIMZED.gif" alt="A gif showing off the level design of Dym" style="width:500px;height:200px;vertical-align: left">
+<img src="http://Callmezyos.github.io/images/Dym-Gif-Pt2-OPTIMZED.gif" alt="A gif showing off the level design of Dym" style="width:500px;height:200px;vertical-align: right">
 
 - Dym was an original concept that I came up then merged with another idea in college.
 - I had the privilege of leading a small team of people from various disciplines into developing a vertical slice of the game.
