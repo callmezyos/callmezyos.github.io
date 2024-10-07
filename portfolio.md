@@ -26,7 +26,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Involved in the design making process
 - Mentor others in essential QA responsibilities
 
-### <b>EA Sports</b> - Madden 19 & 20
+### <u><b>EA Sports</b></u> - Madden 19 & 20
 
 - Title: <b>Designer</b>
 - Maintaining and balancing the core and meta-game documentation
@@ -37,7 +37,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 <img src="http://Callmezyos.github.io/images/Offball Injury Banner-OPTIMIZED.gif" alt="A gif showing off the Offball Injury banner in Madden" style="width:500px;height:200px;vertical-align: left">
 - Led the "Play-Now-Live" feature for Madden 19
 
-### <b>Digital Dreams Entertainment</b> - Mutant Football League
+### <u><b>Digital Dreams Entertainment</b></u> - Mutant Football League
 
 - Title: <b>Designer</b>
 - Creation of Teams / Players / Plays / Playbooks
@@ -45,7 +45,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Update and maintenance of Teams and Players during the offseason 
 - Balancing / Tuning player and team ratings
 
-### <b>ARX</b> - Full Throttle
+### <u><b>ARX</b></u> - Full Throttle
 <img src="http://Callmezyos.github.io/images/Full Throttle Gameplay Gif.gif" alt="A gif showing off the gameplay of Full Throttle" style="width:500px;height:200px;vertical-align: left">
 - Title: <b>Designer</b>
 - Conceptualization and creation of UI / In-game HUD
