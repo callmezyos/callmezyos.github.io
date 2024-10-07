@@ -13,7 +13,7 @@ permalink: /portfolio/
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## <u>Credits:</u>
-### <u><b>Jackbox Games</u></b> - Jackbox Party Pack 6, 7, 8, 9, 10 / Quiplash 2: InterLASHional / Jackbox Party Starter / Jackbox Naughty Pack / Jackbox Megapicker
+### <u><b>Jackbox Games</b></u> - Jackbox Party Pack 6, 7, 8, 9, 10 / Quiplash 2: InterLASHional / Jackbox Party Starter / Jackbox Naughty Pack / Jackbox Megapicker
 
 - Title: <b>Senior Quality Assurance Analyst</b>
 - Bug Logging / Tracking 
