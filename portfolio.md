@@ -13,9 +13,9 @@ permalink: /portfolio/
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## <u>Credits:</u>
-### <u><b>Jackbox Games</b></u> - Jackbox Party Pack 6, 7, 8, 9, 10 / Quiplash 2: InterLASHional / Jackbox Party Starter / Jackbox Naughty Pack / Jackbox Megapicker
+### <u><b>Jackbox Games</b></u> - Jackbox Party Pack 6, 7, 8, 9, 10 / Quiplash 2: InterLASHional / Jackbox Party Starter / Jackbox Naughty Pack / Jackbox Megapicker / The Jackbox Naughty Pack / The Jackbox Survey Scramble
 
-- Title: <b>Senior Quality Assurance Analyst</b>
+- Title: <b>Senior Quality Assurance Analyst Level 2</b>
 - Bug Logging / Tracking 
 - Regression / Certification / Smoke / Spot testing on a wide range of devices and consoles
 - Technical customer service
@@ -25,6 +25,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Hiring manager
 - Involved in the design making process
 - Mentor others in essential QA responsibilities
+- Help with oversight of the department
 
 ### <u><b>EA Sports</b></u> - Madden 19 & 20
 
