@@ -21,7 +21,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Jackbox Megapicker
 - Jackbox Survery Scramble
 
-<u>Job Details:</u>
+<u>Details:</u>
 - Job Title: <b>Senior Quality Assurance Analyst Level 2</b>
 - Bug Logging / Tracking 
 - Regression / Certification / Smoke / Spot testing on a wide range of devices and consoles
@@ -39,7 +39,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Madden 19
 - Madden 20
 
-<u>Job Details:</u>
+<u>Details:</u>
 - Job Title: <b>Designer</b>
 - Maintaining and balancing the core and meta-game documentation
 - Creating and prototyping gameplay features
@@ -53,7 +53,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 #### Titles worked on:
 - Mutant Football League
 
-<u>Job Details:</u>
+<u>Details:</u>
 - Job Title: <b>Designer</b>
 - Creation of Teams / Players / Plays / Playbooks
 <img src="http://Callmezyos.github.io/images/MFL.gif" alt="A gif showing off my work on MFL" style="width:500px;height:200px;vertical-align: left">
@@ -65,7 +65,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Full Throttle
 <img src="http://Callmezyos.github.io/images/Full Throttle Gameplay Gif.gif" alt="A gif showing off the gameplay of Full Throttle" style="width:500px;height:200px;vertical-align: left">
 
-<u>Job Details:</u>
+<u>Details:</u>
 - Title: <b>Designer</b>
 - Conceptualization and creation of UI / In-game HUD
 - Level Designer of all in-game environments
