@@ -12,7 +12,8 @@ permalink: /gamephotography/
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/jVX0dod"  ><a href="//imgur.com/a/jVX0dod">Sand Land Screenshots!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
 ## Ghost of Tsushima
-<div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/bCo418z"  ><a href="//imgur.com/a/bCo418z">Ghost of Tsushima Screenshots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+- This album was remade and lost some images
+<div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/tYxWUHT"  ><a href="//imgur.com/a/tYxWUHT">Ghost of Tsushima Screenshots!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script><div>
 
 ## Shadow of the Colossus
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/jzJFdb3"  ><a href="//imgur.com/a/jzJFdb3">Shadow of the Colossus Screenshots!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
