@@ -19,7 +19,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Quiplash: InterLASHional
 - Jackbox Party Starter
 - Jackbox Megapicker
-- Jackbox Survery Scramble
+- Jackbox Survey Scramble
 
 <u>Details:</u>
 - Job Title: <b>Senior Quality Assurance Analyst Level 2</b>
