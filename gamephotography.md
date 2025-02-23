@@ -26,7 +26,8 @@ permalink: /gamephotography/
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/86oSVHz"  ><a href="//imgur.com/a/86oSVHz">Cyberpunk 2077 Screenshots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
 ## Final Fantasy 7: Remake
-<div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/jyRlpnr"  ><a href="//imgur.com/a/jyRlpnr">Final Fantasy 7 Remake Screenshots!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+- This album was remade and lost some images
+<div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/dgNnci8"  ><a href="//imgur.com/a/dgNnci8">Final Fantasy 7: Remake Screenshots!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
 ## Dead Island 2
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/blNOit5"  ><a href="//imgur.com/a/blNOit5">Dead Island 2 Playthrough Screenshots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
