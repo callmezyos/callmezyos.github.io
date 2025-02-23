@@ -3,8 +3,7 @@ layout: post
 title: Missing game photography albums
 ---
 
-##Quick Update
-I am not sure when, or how for that matter, but it appears that Imgur has deleted 
+Quick Update I am not sure when, or how for that matter, but it appears that Imgur has deleted 
 several of the screenshot albums that I had on the site. Sadly we lost some good ones:
 - Sand Land
 - Ghost of Tsushima
