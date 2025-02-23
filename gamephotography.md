@@ -8,7 +8,7 @@ permalink: /gamephotography/
 <link href="https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap" rel="stylesheet"> 
 
 ## Sand Land
-<div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/UD8BfPg"  ><a href="//imgur.com/a/UD8BfPg">SandLand Screenshots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+<div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/jVX0dod"  ><a href="//imgur.com/a/jVX0dod">Sand Land Screenshots!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
 ## Ghost of Tsushima
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/bCo418z"  ><a href="//imgur.com/a/bCo418z">Ghost of Tsushima Screenshots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
