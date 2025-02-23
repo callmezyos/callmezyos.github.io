@@ -19,7 +19,8 @@ permalink: /gamephotography/
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/jzJFdb3"  ><a href="//imgur.com/a/jzJFdb3">Shadow of the Colossus Screenshots!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
 ## The Last of Us: Part 1
-<div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/LzktVhl"  ><a href="//imgur.com/a/LzktVhl">The Last of Us Part 1 Screenshots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+- This album was remade and lost some images
+<div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/uXZ4NgY"  ><a href="//imgur.com/a/uXZ4NgY">The Last of Us: Part 1 Screenshots!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
 ## Cyberpunk 2077
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/86oSVHz"  ><a href="//imgur.com/a/86oSVHz">Cyberpunk 2077 Screenshots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
