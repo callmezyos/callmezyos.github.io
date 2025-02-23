@@ -13,7 +13,7 @@ permalink: /gamephotography/
 
 ## Ghost of Tsushima
 - This album was remade and lost some images
-<div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/tYxWUHT"  ><a href="//imgur.com/a/tYxWUHT">Ghost of Tsushima Screenshots!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script><div>
+<div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/tYxWUHT"  ><a href="//imgur.com/a/tYxWUHT">Ghost of Tsushima Screenshots!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
 ## Shadow of the Colossus
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/jzJFdb3"  ><a href="//imgur.com/a/jzJFdb3">Shadow of the Colossus Screenshots!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
