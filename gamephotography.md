@@ -8,6 +8,7 @@ permalink: /gamephotography/
 <link href="https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap" rel="stylesheet"> 
 
 ## Sand Land
+- This album was remade and lost some images
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/jVX0dod"  ><a href="//imgur.com/a/jVX0dod">Sand Land Screenshots!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
 ## Ghost of Tsushima
