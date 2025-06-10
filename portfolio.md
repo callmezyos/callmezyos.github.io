@@ -37,8 +37,8 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 
 ### <u><b>EA Sports</b></u>
 #### Titles worked on:
-- Madden 19
-- Madden 20
+- <a href="https://www.ea.com/games/madden-nfl/news/hall-of-fame-edition">Madden 19</a>
+- <a href="https://www.ea.com/en-gb/games/madden-nfl/madden-nfl-20">Madden 20</a>
 
 <u>Details:</u>
 - Job Title: <b>Designer</b>
@@ -52,7 +52,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 
 ### <u><b>Digital Dreams Entertainment</b></u>
 #### Titles worked on:
-- Mutant Football League
+- <a href="https://www.mutantfootballleague.com/about">Mutant Football League</a>
 
 <u>Details:</u>
 - Job Title: <b>Designer</b>
