@@ -15,11 +15,12 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 ## <u>Credits:</u>
 ### <u><b>Jackbox Games</b></u>
 #### Titles worked on:
-- Jackbox Party Pack 6, 7, 8, 9, 10
-- Quiplash: InterLASHional
-- Jackbox Party Starter
-- Jackbox Megapicker
-- Jackbox Survey Scramble
+- Jackbox Party Pack <a href="https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-6">6</a>, <a href="https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-7">7</a>, <a href="https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-8">8</a>, <a href="https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-9">9</a>, <a href="https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-10">10</a>
+- <a href="https://www.jackboxgames.com/games/quiplash-2-interlashional">Quiplash: InterLASHional</a>
+- <a href="https://www.jackboxgames.com/games/packs/the-jackbox-party-starter">Jackbox Party Starter</a>
+- <a href="https://www.jackboxgames.com/the-jackbox-megapicker">Jackbox Megapicker</a>
+- <a href="https://www.jackboxgames.com/games/packs/the-jackbox-naughty-pack">Jackbox Naughty Pack</a>
+- <a href="https://www.jackboxgames.com/games/the-jackbox-survey-scramble">Jackbox Survey Scramble</a>
 
 <u>Details:</u>
 - Job Title: <b>Senior Quality Assurance Analyst Level 2</b>
