@@ -90,7 +90,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 - Maya 3D modeling software familiarity 
 
 ### <b>Professional Experience:</b>
-- 9+ years in the game industry
+- 10+ years in the game industry
 - Game Design experience 
 - Quality Assurance experience
 - Senior Quality Assurance experience
