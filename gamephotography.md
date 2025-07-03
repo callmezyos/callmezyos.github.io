@@ -7,6 +7,9 @@ permalink: /gamephotography/
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap" rel="stylesheet"> 
 
+## Dragon Age: Veilguard
+<div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/zK23Sqr"  ><a href="//imgur.com/a/zK23Sqr">Dragon Age: Veilguard Screenshots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+
 ## Oblivion: Remastered
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/J1VpUY5"  ><a href="//imgur.com/a/J1VpUY5">Oblivion: Remastered Screenshots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
