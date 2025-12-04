@@ -15,7 +15,7 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 ## <u>Credits:</u>
 ### <u><b>Jackbox Games</b></u>
 #### Titles worked on:
-- Jackbox Party Pack <a href="https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-6">6</a>, <a href="https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-7">7</a>, <a href="https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-8">8</a>, <a href="https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-9">9</a>, <a href="https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-10">10</a>
+- Jackbox Party Pack <a href="https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-6">6</a>, <a href="https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-7">7</a>, <a href="https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-8">8</a>, <a href="https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-9">9</a>, <a href="https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-10">10</a>, <a href="https://www.jackboxgames.com/games/packs/the-jackbox-party-pack-11">11</a>
 - <a href="https://www.jackboxgames.com/games/quiplash-2-interlashional">Quiplash: InterLASHional</a>
 - <a href="https://www.jackboxgames.com/games/packs/the-jackbox-party-starter">Jackbox Party Starter</a>
 - <a href="https://www.jackboxgames.com/the-jackbox-megapicker">Jackbox Megapicker</a>
