@@ -19,14 +19,14 @@ avatar: https://Callmezyos.github.io/images/2.jpg
 footer-links:
   dribbble: 
   email: lueck_alex@yahoo.com 
-  facebook: AZLCreations
+  facebook:
   flickr: 
-  github: callmezyos
+  github: 
   instagram: callmezyos
   linkedin: alexlueck
-  pinterest: alexlueck
+  pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: Call_Me_Zyos
+  twitter: zyos.bsky.social
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
