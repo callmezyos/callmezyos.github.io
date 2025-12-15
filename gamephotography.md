@@ -7,6 +7,9 @@ permalink: /gamephotography/
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap" rel="stylesheet"> 
 
+If I find a game with a good photo mode or a way to take "nice" photos in-game, there's a VERY good chance that ill try out taking some photos.
+Nine times outta ten they will be put into Imgur album that I put here as well. Enjoy!
+
 ## RoboCop: Rogue City
 <div align="center"><blockquote class="imgur-embed-pub" lang="en" data-id="a/tf3FWeh"  ><a href="//imgur.com/a/tf3FWeh">RoboCop: Rogue City Screenshots!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
 
