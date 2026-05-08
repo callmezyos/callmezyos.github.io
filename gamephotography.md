@@ -44,3 +44,5 @@ Nine times outta ten they will be put into Imgur album that I put here as well. 
 - <a href="https://imgur.com/gallery/tales-of-arise-screenshots-i5wtkUT">Tales of Arise</a>
 - <a href="https://imgur.com/gallery/dying-light-2-story-screenshots-6vYf9Vg">Dying Light 2</a>
 - <a href="https://imgur.com/gallery/halo-infinite-campaign-screenshots-YJgkoge">Halo Infinite Campaign</a>
+- <a href="https://imgur.com/gallery/gta-vice-city-definitive-edition-screenshots-GDJm0aX">GTA: Vice City Definitive Edition</a>
+
